@@ -1,5 +1,10 @@
 package com.abs.unit3;
 
+import com.abs.unit3.robots.BalletDancingRobot;
+import com.abs.unit3.robots.DancingRobot;
+import com.abs.unit3.robots.FolkDancingRobot;
+import com.abs.unit3.robots.JazzDancingRobot;
+
 public class Main {
     public static void main(String[] args) {
 
