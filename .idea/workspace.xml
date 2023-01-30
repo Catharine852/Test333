@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5710afce-1c39-467d-a825-c406f89e7026" name="Changes" comment="commit5">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abs/unit3/shape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abs/unit3/shape/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abs/unit3/shape/Shape.java" afterDir="false" />
+    <list default="true" id="5710afce-1c39-467d-a825-c406f89e7026" name="Changes" comment="commit6">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abs/unit3/shape/Kvadrat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/abs/unit3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abs/unit3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abs/unit3/shape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abs/unit3/shape/Rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675111097384</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit6">
+      <created>1675116836106</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675116836106</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -156,6 +162,7 @@
     <MESSAGE value="commit3" />
     <MESSAGE value="commit4" />
     <MESSAGE value="commit5" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit5" />
+    <MESSAGE value="commit6" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit6" />
   </component>
 </project>

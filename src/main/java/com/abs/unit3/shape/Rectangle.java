@@ -2,8 +2,8 @@ package com.abs.unit3.shape;
 
 public class Rectangle implements Shape{
 
-    private final double side1;
-    private final double side2;
+    public double side1;
+    public double side2;
 
     public Rectangle(double side1, double side2) {
         this.side1 = side1;
@@ -14,4 +14,12 @@ public class Rectangle implements Shape{
     public double getSquare() {
         return side1 * side2;
     }
+    public double getSide1() {
+        return side1;
+    }
+
+    public double getSide2() {
+        return side2;
+    }
+
 }

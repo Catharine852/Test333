@@ -4,6 +4,7 @@ import com.abs.unit3.robots.DancingRobot;
 import com.abs.unit3.robots.FolkDancingRobot;
 import com.abs.unit3.robots.JazzDancingRobot;
 import com.abs.unit3.shape.Circle;
+import com.abs.unit3.shape.Kvadrat;
 import com.abs.unit3.shape.Rectangle;
 import com.abs.unit3.shape.Shape;
 
@@ -36,6 +37,19 @@ public class Main {
         System.out.println(shape4.getRadius());
 
         System.out.println(shape3.getRadius());
+
+        System.out.println("-------------");
+        Rectangle variable = new Rectangle(3,2);
+        System.out.println(variable.getSquare());
+
+        variable = new Kvadrat(3);
+        System.out.println(variable.getSquare());
+
+        var square = new Kvadrat(10);
+        System.out.println(square.getSide1());
+        System.out.println(square.getSide2());
+        System.out.println(square.getSquareSide());
+
     }
     private static void showRobotsHa() {
         BalletDancingRobot robot = new BalletDancingRobot(); // var robot = new BalletDancingRobot();
