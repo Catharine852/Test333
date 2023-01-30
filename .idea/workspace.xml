@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5710afce-1c39-467d-a825-c406f89e7026" name="Changes" comment="commit2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abs/unit3/JazzDancingRobot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5710afce-1c39-467d-a825-c406f89e7026" name="Changes" comment="commit3">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abs/unit3/BalletDancingRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abs/unit3/robots/BalletDancingRobot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abs/unit3/DancingRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abs/unit3/robots/DancingRobot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abs/unit3/FolkDancingRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abs/unit3/robots/FolkDancingRobot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abs/unit3/JazzDancingRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abs/unit3/robots/JazzDancingRobot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/abs/unit3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abs/unit3/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +68,7 @@
       <module name="Test333.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abs.unit3.*" />
+          <option name="PATTERN" value="com.abs.unit3.robots.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +119,20 @@
       <option name="project" value="LOCAL" />
       <updated>1675106531452</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit3">
+      <created>1675110571708</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675110571708</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit1" />
     <MESSAGE value="commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit2" />
+    <MESSAGE value="commit3" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit3" />
   </component>
 </project>
